@@ -1,0 +1,27 @@
+.Container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  border: 1px solid white;
+  width: 70%;
+  margin: auto;
+  padding: 1rem;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: auto;
+  padding: 1rem;
+  .width: darkgray;
+}
+
+
+
+footer, .full-width {
+  width: 100%;
+  background: darkslategray
+}
